@@ -1,0 +1,9 @@
+.DS_Store
+.svn
+log/*.log
+tmp/**
+.iml
+.ipr
+.iws
+.gradle/
+build/

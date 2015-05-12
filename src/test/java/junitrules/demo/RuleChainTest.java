@@ -16,6 +16,7 @@ public class RuleChainTest {
 
     @Test
     public void test_one() {
+        System.out.println("      In 'test_one'\n");
         assertTrue(true);
     }
 }
